@@ -1,0 +1,11 @@
+streamlit
+faiss-cpu
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+PyPDF2
+python-docx
+sentence-transformers
+tf-keras  
+transformers<4.39  
