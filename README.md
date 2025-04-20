@@ -1,6 +1,3 @@
-Here’s a final `README.md` file for your "Multi-Doc RAG-based Q&A Chatbot" project:
-
-```markdown
 # Multi-Doc RAG-based Q&A Chatbot
 
 ## Project Description
@@ -58,10 +55,6 @@ streamlit run app.py
 ```
 
 4. Access the chatbot UI on your browser.
-
-## Contribution
-
-Feel free to fork this repository and submit pull requests if you want to contribute or improve the project. Contributions are always welcome!
 
 ## License
 
